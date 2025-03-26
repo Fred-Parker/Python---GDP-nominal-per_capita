@@ -69,7 +69,7 @@ Seaborn - Correlation Analysis (Visualised using VSCode)
 <h2 id="key findings">Key Findings</h2>
 
 <li>World Bank and UN GDP estimates demonstrate a strong positive correlation, while IMF estimates show weaker but still positive links with both the World Bank and UN.</li>
-<li>Most continents are represented by roughly 50 country records, except Oceania, which includes only 20.></li>
+<li>Most continents are represented by roughly 50 country records, except Oceania, which includes only 20.</li>
 <li>Europe not only holds the highest GDP estimates but also boasts the most consistent record-keeping, unlike other continents with notable data gaps.</li>
 
 <hr>
